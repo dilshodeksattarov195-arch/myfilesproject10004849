@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioncecrypt",
+        "uuid": 47282599,
+        "checksum": "1p8wil"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
